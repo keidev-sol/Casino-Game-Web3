@@ -1,4 +1,4 @@
-# 🎰 Casino Core Logic
+# 🎰 Web3 Casino Game
 
 This project showcases the core logic behind a simple casino game. It’s designed as a reference implementation for learning and extending core casino functionality.
 
@@ -33,8 +33,8 @@ This project showcases the core logic behind a simple casino game. It’s design
 1. **Clone the repository**:
 
    ```bash
-   git clone https://github.com/HyperBuildX/Web3-Casino-Game-Demo
-   cd Web3-Casino-Game-Demo
+   git clone https://github.com/keidev-sol/Casino-Game-Web3
+   cd Casino-Game-Web3
 
 
 2. **Run the project**
@@ -62,9 +62,8 @@ This project uses [`next/font`](https://nextjs.org/docs/app/building-your-applic
 This project is currently a **demo version**. While the **backend logic is fully functional**, the **UI/UX design is intentionally basic** and kept minimal for demonstration purposes.
 You're welcome to **enhance the interface** and update the visuals based on your own creative and professional design ideas.
 
-## 📫 Contact
+## Contact
 
-If you have any questions or would like a more customized app for specific use cases, please feel free to contact us at the contact information below.
-- E-Mail: hyperbuildx@adamglab.dev
-- Telegram: [@bettyjk_0915](https://t.me/bettyjk_0915)
+- **Telegram:** [https://t.me/Kei4650](https://t.me/Kei4650)  
+- **Twitter:** [https://x.com/kei_4650](https://x.com/kei_4650)  
 
